@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConsoleApp7.Program">
+    <Position X="2.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="lista" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="ConsoleApp7.Teos">
+    <Position X="5.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAEAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Teos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp7.Lehti">
+    <Position X="5.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAgAAAAAAAAAAAAAAACAAAAAAAABAAA=</HashCode>
+      <FileName>Lehti.cs</FileName>
+      <NewMemberFileName>Kirja.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp7.Kirja">
+    <Position X="3" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Kirja.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp7.Aanite">
+    <Position X="7.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAQAAAAAAACAAAAAAAAgAAA=</HashCode>
+      <FileName>Aanite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
